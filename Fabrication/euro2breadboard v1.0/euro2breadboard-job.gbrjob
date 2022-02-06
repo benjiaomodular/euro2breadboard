@@ -7,7 +7,7 @@
       "Application": "Pcbnew",
       "Version":     "5.1.9+dfsg1-1~bpo10+1"
     },
-    "CreationDate":  "2022-02-06T15:46:01+08:00"
+    "CreationDate":  "2022-02-06T17:07:51+08:00"
   },
   "GeneralSpecs":
   {
@@ -19,8 +19,8 @@
     },
     "Size":
     {
-      "X": 33.120,
-      "Y": 53.440
+      "X": 31.850,
+      "Y": 49.630
     },
     "LayerNumber": 2,
     "BoardThickness":  1.600
