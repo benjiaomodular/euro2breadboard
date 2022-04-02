@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../../Fabrication/euro2breadboard v1.0/"))
+      (outputdirectory "../../Fabrication/euro2breadboard v1.1/"))
   )
 
   (net 0 "")
@@ -1180,7 +1180,7 @@
   (segment (start 84.709 67.31) (end 84.709 76.962) (width 0.65) (layer F.Cu) (net 7))
   (segment (start 84.709 76.962) (end 77.343 84.328) (width 0.65) (layer F.Cu) (net 7))
 
-  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer F.Cu) (tstamp 6210C118) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -1451,7 +1451,7 @@
       )
     )
   )
-  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 0) (hatch edge 0.508)
+  (zone (net 1) (net_name GND) (layer B.Cu) (tstamp 6210C115) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
