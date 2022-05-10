@@ -4,7 +4,7 @@ A simple breadboard power adapter for Eurorack module development.
 
 ## Versions
 ### v1.1 Quick fixes
-- Spacing of power rail pins was improved.
+- Spacing of power rail pins was fixed.
 - Updated footprint of toggle switch. Made the drill holes a bit wider.
 - Switched the position of the toggle and the LEDs so you can see the lights better.
 
